@@ -1,0 +1,19 @@
+header { /* dòng 1: cỡ chữ đậm, dòng 2: màu chữ là xanh, dòng 3: kiểu dáng chữ là arial, dòng 4: cỡ chữ là 18pt */
+    font-weight: bold;
+    color: blue;
+    font-family: Arial, sans-serif;
+    font-size: 18pt;
+}
+
+main { 
+    font-style: italic;
+    color: purple;
+    font-family: Arial, sans-serif;
+    font-size: 14pt;
+}
+
+a {
+    font-style: italic;
+    text-decoration: none;
+    color: green;
+}
